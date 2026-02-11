@@ -1,8 +1,10 @@
 # CFL_Blogpost
 This repo contains the accompanying code to our blogpost about "Causal Feature Learning" by Chalupka et al.
 
-TODO: add the link to the blogpost when online
-
+Blogpost:
+[Pt. 1/3](https://medium.com/causality-in-data-science/introducing-causal-feature-learning-8e5c15e00276)
+[Pt. 2/3](https://medium.com/causality-in-data-science/hands-on-causal-feature-learning-3b3d6150517e)
+[Pt. 3/3](https://medium.com/causality-in-data-science/validation-in-causal-feature-learning-5079f3c731dc)
 
 You can run the code by cloning this repo locally and launching Julia within the folder. Afterwards, you can run the following commands to install the necessary packages:
 
